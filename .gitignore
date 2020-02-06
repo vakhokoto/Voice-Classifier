@@ -3,3 +3,4 @@ __pycache__/
 plot.py
 main.py
 .ipynb_checkpoints/
+TestData/
