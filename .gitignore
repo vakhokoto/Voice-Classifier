@@ -6,3 +6,4 @@ main.py
 TestData/
 Test_Voices/
 predictions.txt
+Data/mfcc_samples.json
