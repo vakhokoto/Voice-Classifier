@@ -4,3 +4,6 @@ plot.py
 main.py
 .ipynb_checkpoints/
 TestData/
+Test_Voices/
+predictions.txt
+Data/mfcc_samples.json
